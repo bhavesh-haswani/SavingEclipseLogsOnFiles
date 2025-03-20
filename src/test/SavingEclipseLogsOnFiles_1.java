@@ -15,7 +15,7 @@ public class SavingEclipseLogsOnFiles_1 {
             e.printStackTrace();
         }
 
-	    System.out.println("This will be written to the file.");
+	    System.out.println("This will be written to the file. ");
 		
 	}
 
